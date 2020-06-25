@@ -1,0 +1,33 @@
+.main{
+    border: 2px solid blueviolet;
+    width: 200px;
+    margin: 0px auto;
+    background-color: darksalmon;
+}
+.input{
+    border: 1px solid black;
+    width: 97%;
+     height: 50px;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+}
+.heading{
+    color: black;
+    text-align: center;
+}
+.halfbtn{
+    background-color: black;
+    color: #ffffff;
+    width: 98px;
+    margin-top: 10px;
+    border: none;
+}
+.btn{
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    width: 47px;
+    margin-top: 8px;
+}
